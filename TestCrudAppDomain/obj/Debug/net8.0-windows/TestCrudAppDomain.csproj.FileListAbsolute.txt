@@ -1,0 +1,12 @@
+E:\TestCrudApp\TestCrudAppDomain\bin\Debug\net8.0-windows\TestCrudAppDomain.deps.json
+E:\TestCrudApp\TestCrudAppDomain\bin\Debug\net8.0-windows\TestCrudAppDomain.dll
+E:\TestCrudApp\TestCrudAppDomain\bin\Debug\net8.0-windows\TestCrudAppDomain.pdb
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.csproj.AssemblyReference.cache
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.AssemblyInfoInputs.cache
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.AssemblyInfo.cs
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.csproj.CoreCompileInputs.cache
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.dll
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\refint\TestCrudAppDomain.dll
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\TestCrudAppDomain.pdb
+E:\TestCrudApp\TestCrudAppDomain\obj\Debug\net8.0-windows\ref\TestCrudAppDomain.dll
