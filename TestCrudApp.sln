@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrudApp", "TestCrudApp\TestCrudApp.csproj", "{5AF974F7-4B2A-4138-AB70-6E8F7AFF88DD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrudUserApp", "TestCrudUserApp\TestCrudUserApp.csproj", "{5AF974F7-4B2A-4138-AB70-6E8F7AFF88DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrudAppDomain", "TestCrudAppDomain\TestCrudAppDomain.csproj", "{B4701531-C71F-4EFC-A0A4-64316FE2DA89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestCrudUserAppDomain", "TestCrudUserAppDomain\TestCrudUserAppDomain.csproj", "{B4701531-C71F-4EFC-A0A4-64316FE2DA89}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

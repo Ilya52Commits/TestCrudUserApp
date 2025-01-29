@@ -1,0 +1,13 @@
+E:\TestCrudApp\TestCrudUserAppDomain\bin\Debug\net8.0-windows\TestCrudUserAppDomain.deps.json
+E:\TestCrudApp\TestCrudUserAppDomain\bin\Debug\net8.0-windows\TestCrudUserAppDomain.dll
+E:\TestCrudApp\TestCrudUserAppDomain\bin\Debug\net8.0-windows\TestCrudUserAppDomain.pdb
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.csproj.AssemblyReference.cache
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.GeneratedMSBuildEditorConfig.editorconfig
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.AssemblyInfoInputs.cache
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.AssemblyInfo.cs
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.csproj.CoreCompileInputs.cache
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.sourcelink.json
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.dll
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\refint\TestCrudUserAppDomain.dll
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\TestCrudUserAppDomain.pdb
+E:\TestCrudApp\TestCrudUserAppDomain\obj\Debug\net8.0-windows\ref\TestCrudUserAppDomain.dll
