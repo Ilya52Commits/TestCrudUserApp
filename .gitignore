@@ -1,0 +1,7 @@
+.idea
+.vs
+/TestCrudUserAppDomain/bin
+/TestCrudUserAppDomain/obj
+/TestCrudUserApp/bin
+/TestCrudUserApp/obj
+TestCrudApp.sln.DotSettings.user

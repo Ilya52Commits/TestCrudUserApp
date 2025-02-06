@@ -1,10 +1,14 @@
 using Microsoft.EntityFrameworkCore;
-using TestAppDomain.EntityFramework.Models;
+using TestCrudAppDomain.EntityFramework.Models;
 
 namespace TestCrudAppDomain.EntityFramework;
 
-public sealed class Context:DbContext
+public sealed class Context : DbContext
 {
-    public Context(DbContextOptions<Context> options):base(options) { Database.EnsureCreated(); }
-    public DbSet<User> Users { get; set; }
+  public Context(DbContextOptions<Context> options) : base(options)
+  {
+    Database.EnsureCreated();
+  }
+
+  public DbSet<User> Users { get; set; }
 }

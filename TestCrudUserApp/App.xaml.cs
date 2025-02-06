@@ -2,8 +2,8 @@
 using System.Windows;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
-using TestApp.MVVM.Views;
 using TestCrudApp.MVVM.ViewModels;
+using TestCrudApp.MVVM.Views;
 using TestCrudAppDomain;
 
 namespace TestCrudApp;
@@ -11,7 +11,7 @@ namespace TestCrudApp;
 /// <summary>
 /// Interaction logic for App.xaml
 /// </summary>
-public partial class App : Application
+public partial class App
 {
   protected override void OnStartup(StartupEventArgs e)
   {

@@ -1,7 +1,7 @@
-namespace TestAppDomain.Exceptions;
+namespace TestCrudAppDomain.Exceptions;
 
 /// <summary>
 ///     Ошибка валидации пользователя
 /// </summary>
 /// <param name="message"></param>
-public class UserValidationException(string message):Exception(message);
+public class UserValidationException(string message) : Exception(message);

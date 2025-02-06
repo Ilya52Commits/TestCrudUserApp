@@ -1,14 +1,14 @@
 using TestCrudApp.MVVM.ViewModels;
 
-namespace TestApp.MVVM.Views;
+namespace TestCrudApp.MVVM.Views;
 
 public partial class CrudView
 {
-    public CrudView(CrudViewModel viewModel)
-    {
-        InitializeComponent();
+  public CrudView(CrudViewModel viewModel)
+  {
+    InitializeComponent();
 
-        // Установка DataContext
-        DataContext = viewModel;
-    }
+    // Установка DataContext
+    DataContext = viewModel;
+  }
 }
